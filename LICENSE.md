@@ -1,4 +1,4 @@
-# 
+# Enhance ScreenFlow for macOS with ScreenFlow for macOS automatic Automation: time-remapping & text-animation, the #1 automation. Includes time-remapping and text-animation for a
 
 
 
